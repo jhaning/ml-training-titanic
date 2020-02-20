@@ -1,0 +1,13 @@
+.idea/
+.DS_Store
+**/.DS_Store
+**/*.pyc
+**/__pycache__/
+**/*.csv
+**/*.dat
+**/*.tsv
+**/*.xlsx
+**/*.xls
+data/*.json
+**/.ipynb_checkpoints
+*.iml
