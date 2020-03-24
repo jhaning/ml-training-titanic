@@ -2,6 +2,10 @@
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
+### Run
+
+This notebook is intended to be run from an AI Platform Notebook on the Intelligence Platform. If your team has not been onboarded to the Intelligence Platform please see the [Onboarding Confluence Page](https://confluence.cardinalhealth.com/display/CAHEA/Intelligence+Platform+Onboarding)
+
 ### Install
 
 This project requires **Python 3.7** and the following Python libraries installed:
@@ -10,25 +14,17 @@ This project requires **Python 3.7** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [BigQuery Client](https://cloud.google.com/bigquery/docs/reference/libraries)
+- [Cloud Storage Client](https://cloud.google.com/storage/docs/reference/libraries)
 - [Jupyter Notebook](http://ipython.org/notebook.html)
 
 ### Code
 
-Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. Additional supporting code can be found in `visuals.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended to be manipulated. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
-
-### Run
-
-In a terminal or command window, navigate to the top-level project directory `titanic_survival_exploration/` (that contains this README) and run the following command:
-
-```bash
-jupyter notebook titanic_survival_exploration.ipynb
-```
-
-This will open the Jupyter Notebook software and project file in your web browser.
+Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. You will also be required to use the included `visuals.py` and `data_load.py` Python files to explore the `housing` dataset file and complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` and `data_load.py` is meant to be used out-of-the-box and not intended to be edited. If you are interested in how the visualizations are created or how the data is loaded in the notebook, please feel free to explore these Python files.
 
 ### Data
 
-The dataset used in this project is included as `titanic_data.csv`. This dataset contains the following attributes:
+The dataset used in this project contains the following attributes:
 
 **Features**
 
