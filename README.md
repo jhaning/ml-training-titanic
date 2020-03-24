@@ -1,4 +1,4 @@
-# Machine Learning Engineer Nanodegree
+# Machine Learning Engineer
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
