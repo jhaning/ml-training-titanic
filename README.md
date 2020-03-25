@@ -1,6 +1,6 @@
 # Machine Learning Engineer
 ## Introduction and Foundations
-## Project: Titanic Survival Exploration
+## Project 0: Titanic Survival Exploration
 
 ### Run
 
