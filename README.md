@@ -4,7 +4,7 @@
 
 ### Run
 
-This notebook is intended to be run from an AI Platform Notebook on the Intelligence Platform. If your team has not been onboarded to the Intelligence Platform please see the [Onboarding Confluence Page](https://confluence.cardinalhealth.com/display/CAHEA/Intelligence+Platform+Onboarding)
+This notebook is intended to be run from an AI Platform Notebook on the Impower.ai Skynet GCP Project.
 
 ### Install
 
@@ -20,7 +20,7 @@ This project requires **Python 3.7** and the following Python libraries installe
 
 ### Code
 
-Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. You will also be required to use the included `visuals.py` and `data_load.py` Python files to explore the `housing` dataset file and complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` and `data_load.py` is meant to be used out-of-the-box and not intended to be edited. If you are interested in how the visualizations are created or how the data is loaded in the notebook, please feel free to explore these Python files.
+Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. You will also be required to use the included `visuals.py` and `data_load.py` Python files to explore the `titanic` dataset file and complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` and `data_load.py` is meant to be used out-of-the-box and not intended to be edited. If you are interested in how the visualizations are created or how the data is loaded in the notebook, please feel free to explore these Python files.
 
 ### Data
 
